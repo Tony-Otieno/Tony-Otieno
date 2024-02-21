@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tony-Otieno
 - 👀 I’m interested in webdesign,coding...
 - 🌱 I’m currently learning html,css,jss...
-- 💞️ I’m looking to collaborate on .my funpage..
+- 💞️ I’m looking to collaborate on any fun project..
 - 📫 How to reach me otienotony598@gmail.com
 
 <!---
